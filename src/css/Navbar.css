@@ -1,0 +1,18 @@
+.nav-container {
+    background-color: rgb(67, 158, 55);
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-link{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.logo{
+    width: 2rem;
+}
